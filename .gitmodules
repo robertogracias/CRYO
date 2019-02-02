@@ -1,1 +1,6 @@
 
+
+[submodule "aimejules/odoo-addons"]
+	path = aimejules/odoo-addons
+	url = git@github.com:aimejules/odoo-addons.git
+	branch = 12.0
